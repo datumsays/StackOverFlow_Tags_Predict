@@ -18,3 +18,5 @@ A machine learning classification stack that predicts tags based on contents and
       - Production Code
             -> Python Patterns
             -> Django Framework
+
+* Make sure to include model equations and features 
